@@ -1,0 +1,27 @@
+{
+  "name": "backen_glitch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgustinNav/backen_glitch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AgustinNav/backen_glitch/issues"
+  },
+  "homepage": "https://github.com/AgustinNav/backen_glitch#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^7.0.4",
+    "socket.io": "^4.6.1"
+  }
+}
